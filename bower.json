@@ -1,0 +1,21 @@
+{
+  "name": "my first boostrap project",
+  "homepage": "https://github.com/kratox1/projectone",
+  "description": "how to use basic boostrap classes",
+  "main": "index.html",
+  "authors": [
+    "antonio abad"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
